@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 #IP list of respective hosts in text file
 file=iplist.txt
